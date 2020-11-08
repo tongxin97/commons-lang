@@ -1,0 +1,11 @@
+nondexFilter=.*
+nondexMode=FULL
+nondexSeed=974622
+nondexStart=0
+nondexEnd=9223372036854775807
+nondexPrintstack=false
+nondexDir=/Users/xin/Desktop/cs527/repos/commons-lang/.nondex
+nondexJarDir=/Users/xin/Desktop/cs527/repos/commons-lang/.nondex
+nondexExecid=BN6rZSYnMbgKBoPJ1zENxZqHRI8x6xFvtFVlKVnSE=
+nondexLogging=CONFIG
+test=
